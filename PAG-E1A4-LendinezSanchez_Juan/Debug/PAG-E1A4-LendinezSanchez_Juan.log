@@ -1,0 +1,5 @@
+﻿  PAGMain.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  c:\users\david\desktop\glwrappers\glfw-3.2.1.bin.win32\include\glfw\glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+  PAG-E1A4-LendinezSanchez_Juan.vcxproj -> C:\Users\david\Desktop\PAG-E1A4-LendinezSanchez_Juan\Debug\PAG-E1A4-LendinezSanchez_Juan.exe
+  PAG-E1A4-LendinezSanchez_Juan.vcxproj -> C:\Users\david\Desktop\PAG-E1A4-LendinezSanchez_Juan\Debug\PAG-E1A4-LendinezSanchez_Juan.pdb (Partial PDB)
